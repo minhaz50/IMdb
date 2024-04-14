@@ -1,6 +1,5 @@
 "use client";
 import { CgDarkMode } from "react-icons/cg";
-
 import { MdLightMode, MdDarkMode } from "react-icons/md";
 import { useTheme } from "next-themes";
 
