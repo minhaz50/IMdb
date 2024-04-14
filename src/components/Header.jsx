@@ -15,7 +15,7 @@ export default function Header() {
       <div className="flex items-center">
         <DarkModeSwitch />
         <Link href={"/"} className="items-center sm:m-4">
-          <span className="text-2xl font-bold bg-amber-500 rounded px-1.5">
+          <span className="text-2xl font-bold bg-amber-500 rounded px-1.5 tracking-tighter">
             IMDb
           </span>
           <span className="text-sm hidden sm:inline px-1 ">
